@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Video11</string>
+    <string name="textView_Hello">Xin chào, Tôi là Android Studio!</string>
+    <string name="textbutton_Click">Goooooooo...</string>
+    <string name="textbutton_Hihi">Hihi</string>
+</resources>

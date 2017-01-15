@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rl_second" type="id"></item>
+    <item name="im_imageView" type="id"></item>
+    <item name="tx_textView" type="id"></item>
+    <item name="bt_Click" type="id"></item>
+    <item name="bt_Hihi" type="id"></item>
+</resources>
